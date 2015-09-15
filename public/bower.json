@@ -1,0 +1,17 @@
+{
+  "name": "Parcial",
+  "version": "0.0.1",
+  "authors": [
+    "Eduardo Machaca"
+  ],
+  "description": "Sistema de Informacion II",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootstrap-material-design":"~0.3.0"
+  }
+}
